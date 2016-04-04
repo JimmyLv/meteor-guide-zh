@@ -1,4 +1,4 @@
-# Meteor Guide
+# Meteor Guide 中文版翻译
 
 [![Articles drafted](https://badge.waffle.io/meteor/guide.svg?label=status:%20first%20draft&title=Articles%20Drafted)](https://waffle.io/meteor/guide?label=article)
 
